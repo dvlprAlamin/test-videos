@@ -4,9 +4,9 @@
   <Period id="0">
     <AdaptationSet id="0" contentType="video" width="1728" height="1080" frameRate="1000000/33366" subsegmentAlignment="true" par="8:5">
       <SupplementalProperty schemeIdUri="urn:mpeg:mpegB:cicp:TransferCharacteristics" value="1"/>
-      <ContentProtection value="cenc" schemeIdUri="urn:mpeg:dash:mp4protection:2011" cenc:default_KID="fef6a6f8-93e5-4651-a48e-07fc930366ff"/>
+      <ContentProtection value="cenc" schemeIdUri="urn:mpeg:dash:mp4protection:2011" cenc:default_KID="9fd385d5-f389-48b5-b7c3-b1863ee10888"/>
       <ContentProtection schemeIdUri="urn:uuid:1077efec-c0b2-4d02-ace3-3c1e52e2fb4b">
-        <cenc:pssh>AAAANHBzc2gBAAAAEHfv7MCyTQKs4zweUuL7SwAAAAH+9qb4k+VGUaSOB/yTA2b/AAAAAA==</cenc:pssh>
+        <cenc:pssh>AAAANHBzc2gBAAAAEHfv7MCyTQKs4zweUuL7SwAAAAGf04XV84lItbfDsYY+4QiIAAAAAA==</cenc:pssh>
       </ContentProtection>
       <Representation id="0" bandwidth="6160713" codecs="avc1.64003e" mimeType="video/mp4" sar="1:1">
         <BaseURL>video_720p_1200k.mp4</BaseURL>
@@ -16,9 +16,9 @@
       </Representation>
     </AdaptationSet>
     <AdaptationSet id="1" contentType="audio" subsegmentStartsWithSAP="1" subsegmentAlignment="true">
-      <ContentProtection value="cenc" schemeIdUri="urn:mpeg:dash:mp4protection:2011" cenc:default_KID="fef6a6f8-93e5-4651-a48e-07fc930366ff"/>
+      <ContentProtection value="cenc" schemeIdUri="urn:mpeg:dash:mp4protection:2011" cenc:default_KID="9fd385d5-f389-48b5-b7c3-b1863ee10888"/>
       <ContentProtection schemeIdUri="urn:uuid:1077efec-c0b2-4d02-ace3-3c1e52e2fb4b">
-        <cenc:pssh>AAAANHBzc2gBAAAAEHfv7MCyTQKs4zweUuL7SwAAAAH+9qb4k+VGUaSOB/yTA2b/AAAAAA==</cenc:pssh>
+        <cenc:pssh>AAAANHBzc2gBAAAAEHfv7MCyTQKs4zweUuL7SwAAAAGf04XV84lItbfDsYY+4QiIAAAAAA==</cenc:pssh>
       </ContentProtection>
       <Representation id="1" bandwidth="132895" codecs="mp4a.40.2" mimeType="audio/mp4" audioSamplingRate="44100">
         <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
