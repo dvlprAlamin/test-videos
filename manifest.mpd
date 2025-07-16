@@ -19,11 +19,11 @@
       <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
         <cenc:pssh>AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEJ/ThdXziUi1t8Oxhj7hCIhI49yVmwY=</cenc:pssh>
       </ContentProtection>
-      <Representation id="1" bandwidth="392585" codecs="mp4a.40.2" mimeType="audio/mp4" audioSamplingRate="48000">
+      <Representation id="1" bandwidth="392623" codecs="mp4a.40.2" mimeType="audio/mp4" audioSamplingRate="48000">
         <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="6"/>
         <BaseURL>audio.m4a</BaseURL>
-        <SegmentBase indexRange="979-1142" timescale="48000">
-          <Initialization range="0-978"/>
+        <SegmentBase indexRange="1005-1168" timescale="48000">
+          <Initialization range="0-1004"/>
         </SegmentBase>
       </Representation>
     </AdaptationSet>
